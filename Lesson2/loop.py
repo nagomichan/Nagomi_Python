@@ -1,4 +1,3 @@
-# t2 đến t6 thì thức dậy đi làm
 # xử lý các sự kiện lặp di lặp lại thì sử dụng vòng lặp
 # while a > 0:
 #     print(a)
